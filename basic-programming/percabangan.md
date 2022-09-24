@@ -24,7 +24,7 @@ Disini kita akan mempelajari bagaimana cara membuat percabangan dalam bahasa pem
 
 ## Referensi Belajar
 
-[Tutorial Java Petani Kode (01 - 07)](https://www.petanikode.com/tutorial/java/)
+[Tutorial Java Petani Kode - Percabangan](https://www.petanikode.com/java-percabangan/)
 
 ## Latihan
 

@@ -4,7 +4,7 @@
 
 1. [Fundamental](basic-programming/fundamental.md)
 2. [Percabangan](basic-programming/percabangan.md)
-3. Perulangan
+3. [Perulangan](basic-programming/perulangan.md)
 4. Array
 5. Fungsi
 
