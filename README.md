@@ -2,7 +2,7 @@
 
 ## Basic Programming
 
-1. Fundamental
+1. [Fundamental](basic-programming/fundamental.md)
 2. Percabangan
 3. Perulangan
 4. Array
