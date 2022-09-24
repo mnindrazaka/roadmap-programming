@@ -3,7 +3,7 @@
 ## Basic Programming
 
 1. [Fundamental](basic-programming/fundamental.md)
-2. Percabangan
+2. [Percabangan](basic-programming/percabangan.md)
 3. Perulangan
 4. Array
 5. Fungsi
