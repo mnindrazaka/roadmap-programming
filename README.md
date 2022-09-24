@@ -35,3 +35,11 @@
 4. Trees
 5. Graphs
 6. Hash Tables
+
+## BigO Notation
+
+To be added
+
+## Well Known Algorithm
+
+To be added
