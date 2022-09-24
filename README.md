@@ -5,7 +5,7 @@
 1. [Fundamental](basic-programming/fundamental.md)
 2. [Percabangan](basic-programming/percabangan.md)
 3. [Perulangan](basic-programming/perulangan.md)
-4. Array
+4. [Array](basic-programming/array.md)
 5. Fungsi
 
 ## Object Oriented Programming
