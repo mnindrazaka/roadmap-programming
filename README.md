@@ -17,9 +17,9 @@
 
 ## Database
 
-1. Fundamental
-2. Querying
-3. Relation
+1. Data Definition Language
+2. Data Manipulation Language
+3. Relationship
 4. App Integration
 
 ## User Interface
