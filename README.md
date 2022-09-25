@@ -11,9 +11,9 @@
 ## Object Oriented Programming
 
 1. [Fundamental](oop/fundamental.md)
-2. Constructor
-3. Modifier
-4. Inheritance
+2. [Constructor](oop/constructor.md)
+3. Access Modifier
+4. Getter dan Setter
 
 ## Database
 
