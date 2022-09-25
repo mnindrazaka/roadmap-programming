@@ -15,13 +15,16 @@ Disini kita akan belajar beberapa konsep dasar tentang OOP, yaitu :
 1. Class dan Object
 2. Property
 3. Method
+4. Constructor
+5. This keyword
 
 ## Referensi Belajar
 
-[Tutorial Java Petani Kode - Konsep Dasar OOP](https://www.petanikode.com/java-oop/)
+[Tutorial Java OOP Kelas Terbuka (01 - 08)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo6V4_vk1s1NcM2HoW5KFG7i)
 
 ## Latihan
 
-- Membuat program kasir menggunakan OOP
-- Membuat program bioskop menggunakan OOP
-- Membuat program peminjaman buku menggunakan OOP
+- Menerapkan array pada program kasir menggunakan OOP
+- Menerapkan array pada program bioskop menggunakan OOP
+- Menerapkan array pada program peminjaman buku menggunakan OOP
+- Menerapkan array pada program rekening menggunakan OOP
