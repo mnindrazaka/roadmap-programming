@@ -28,7 +28,7 @@ Disini kita memiliki tujuan untuk mempelajari dasar pemrograman Java agar bisa m
 
 ## Referensi Belajar
 
-[Tutorial Java Petani Kode (01 - 07)](https://www.petanikode.com/tutorial/java/)
+[Tutorial Java Kelas Terbuka (01 - 19)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F)
 
 ## Latihan
 

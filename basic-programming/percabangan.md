@@ -24,10 +24,13 @@ Disini kita akan mempelajari bagaimana cara membuat percabangan dalam bahasa pem
 
 ## Referensi Belajar
 
-[Tutorial Java Petani Kode - Percabangan](https://www.petanikode.com/java-percabangan/)
+[Tutorial Java Kelas Terbuka (20 - 26)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F)
 
 ## Latihan
 
 - Membuat program untuk menentukan apakah seorang siswa lulus atau tidak
-- Membuat program untuk menghitung luas dan keliling beberapa bangun
+- Membuat program hitung luas dan keliling bangun
 - Membuat program kasir
+- Membuat program bioskop
+- Membuat program peminjaman buku
+- Membuat program rekening

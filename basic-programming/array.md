@@ -14,14 +14,14 @@ Memahami konsep array dalam bahasa pemrograman Java agar bisa membuat program se
 2. Cara mengakses nilai pada array
 3. Cara mengubah nilai pada array
 4. Cara menampilkan semua nilai pada array
-5. Perbedaan array dan ArrayList
 
 ## Referensi Belajar
 
-[Tutorial Java Petani Kode - Array](https://www.petanikode.com/java-array/)
+[Tutorial Java Kelas Terbuka (40 - 44)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F)
 
 ## Latihan
 
-- Membuat program kasir yang dapat menambahkan lebih dari satu barang
-- Membuat program bioskop
-- Membuat program peminjaman buku
+- Menerapkan array pada program kasir
+- Menerapkan array pada program bioskop
+- Menerapkan array pada program peminjaman buku
+- Menerapkan array pada program rekening

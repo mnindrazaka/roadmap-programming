@@ -18,12 +18,15 @@ Disini kita akan mempelajari bagaimana cara membuat perulangan dalam bahasa pemr
 
 ## Referensi Belajar
 
-[Tutorial Java Petani Kode - Perulangan](https://www.petanikode.com/java-perulangan/)
+[Tutorial Java Kelas Terbuka (27 - 33)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F)
 
 ## Latihan
 
 - Membuat program untuk menampilkan pesan beberapa kali berdasarkan inputan user
 - Membuat program untuk menampilkan angka ganjil dari 1 sampai 100
 - Membuat program untuk menampilkan angka genap dari 1 sampai 100
-- Membuat program untuk menghitung luas bangun yang dapat diulang kembali dari awal
-- Membuat program kasir yang dapat diulang kembali dari awal
+- Menerapkan pengulangan pada program hitung luas dan keliling bangun
+- Menerapkan pengulangan pada program kasir
+- Menerapkan pengulangan pada program bioskop
+- Menerapkan pengulangan pada program peminjaman buku
+- Menerapkan pengulangan pada program rekening
