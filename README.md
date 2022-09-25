@@ -12,8 +12,6 @@
 
 1. [Fundamental](oop/fundamental.md)
 2. [Encapsulation](oop/encapsulation.md)
-3. Access Modifier
-4. Getter dan Setter
 
 ## Database
 
