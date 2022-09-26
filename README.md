@@ -15,10 +15,9 @@
 
 ## Database
 
-1. Data Definition Language
-2. Data Manipulation Language
-3. Relationship
-4. App Integration
+1. [Fundamental](database/fundamental.md)
+2. [Integrasi](database/integrasi.md)
+3. [Relationship](database/relationship.md)
 
 ## User Interface
 
