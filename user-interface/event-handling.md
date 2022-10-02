@@ -22,6 +22,8 @@ Disini kita bertujuan untuk mempelajari konsep event handling agar kita dapat me
 
 ## Latihan
 
+- Membuat program CRUD
+- Membuat program CRUD yang terhubung dengan database
 - Membuat event handling untuk program kasir
 - Membuat event handling untuk program bioskop
 - Membuat event handling untuk program peminjaman buku
