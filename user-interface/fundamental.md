@@ -24,6 +24,7 @@ Disini kita bertujuan untuk mempelajari bagaimana cara membuat tampilan grafis d
 
 ## Latihan
 
+- Membuat tampilan grafis untuk program CRUD
 - Membuat tampilan grafis untuk program kasir
 - Membuat tampilan grafis untuk program bioskop
 - Membuat tampilan grafis untuk program peminjaman buku
